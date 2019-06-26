@@ -1,0 +1,6 @@
+framework module Pods_LWLDemoUITests {
+  umbrella header "Pods-LWLDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

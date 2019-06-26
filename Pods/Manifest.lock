@@ -1,0 +1,16 @@
+PODS:
+  - LWLCustomKit (0.1.0)
+
+DEPENDENCIES:
+  - LWLCustomKit (from `Lib/LWLCustomKit`)
+
+EXTERNAL SOURCES:
+  LWLCustomKit:
+    :path: Lib/LWLCustomKit
+
+SPEC CHECKSUMS:
+  LWLCustomKit: d6aaf186675ff8acbf6cf77f72601eee38551719
+
+PODFILE CHECKSUM: 2b0561d1707d0719946c934c8e97464fa496e4c4
+
+COCOAPODS: 1.5.3

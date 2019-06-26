@@ -1,0 +1,6 @@
+framework module Pods_LWLDemo {
+  umbrella header "Pods-LWLDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
